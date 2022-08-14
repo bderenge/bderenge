@@ -1,4 +1,4 @@
-### Hi there 👋
+<--!### Hi there 👋-->
 
 <!--
 **bderenge/bderenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="left">Hi 👋, I'm Ben Derenge. Welcome to my page! </h1>
+<h3 align="left">Graduate Student at South Dakota State University</h3>
+
+<br>
+
+- 🔭 I’m currently working on iDEP, a Shiny App developed for in-depth analysis of gene expression data
+
+- 🌱 I’m currently learning R, Shiny, Python
+
+## Check out my Portfolio
+
+
