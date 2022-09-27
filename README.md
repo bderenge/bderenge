@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning R, Shiny, Python
 
 ## Check out my Portfolio
+What are the squirrels doing?
+
 
 ![Alt text](https://github.com/bderenge/bderenge/blob/main/squirrel_cloud.png)
