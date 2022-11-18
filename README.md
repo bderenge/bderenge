@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <br>
 
 - 🔭 I’m currently working on iDEP, a Shiny App developed for in-depth analysis of gene expression data
+http://149.165.154.220/idepg/
+Old version: http://bioinformatics.sdstate.edu/idep/
 
 - 🌱 I’m currently learning R, Shiny, Python
 
