@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Ben </h1>
 <h3 align="center">Biostatistician | Computational Biology | ML in Healthcare</h3>
 
 ### About Me
@@ -16,5 +16,3 @@
 📌 Check out my repositories for bioinformatics workflows, Shiny applications, and analysis pipelines
 
 ---
-
-📫 Connect with me on [LinkedIn](your-linkedin-url)
