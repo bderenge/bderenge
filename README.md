@@ -2,41 +2,27 @@
 
 <!--
 **bderenge/bderenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">Biostatistician | Computational Biology | Data Scientist</h3>
 
-Here are some ideas to get you started:
+### What I Do
+- 🔬 Analyze single-cell RNA-seq data to understand disease mechanisms (cancer, rare diseases, diabetes)
+- 🤖 Build ML models for healthcare applications (NLP on clinical notes, cell type classifiers)
+- 🛠️ Develop bioinformatics tools and Shiny applications for research teams
+- 📊 Contributor to [iDEP](http://ge-lab.org/idep/) - RNA-seq analysis platform with 100+ daily users
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+**Languages:** R, Python, SQL, C++  
+**Specialties:** scRNA-seq (Seurat), Machine Learning, NLP, Statistical Modeling, Shiny Development  
+**Tools:** AWS, Docker, Git/GitHub, REDCap
 
+### Fun Project: Squirrel Behavior Analysis
+Analyzed NYC squirrel census data - because why not? 🐿️
 
-<h1 align="left">Hi 👋, I'm Ben Derenge. Welcome to my page! </h1>
-<h3 align="left">Graduate Student at South Dakota State University</h3>
+![Squirrel behavior word cloud](https://github.com/profile/profile/blob/main/squirrel_cloud.png)
+*Most common squirrel behaviors observed in Central Park*
 
-<br>
-
-- 🔭 I’m currently working on iDEP, a Shiny App developed for in-depth analysis of gene expression data
-
-
-- 🌱 I’m currently learning R, Shiny, Python
-
-## Check out my Portfolio
-**Links**
-<br>
-IDEP
-<br>
-http://149.165.154.220/idepg/
-<br>
-Old version: http://bioinformatics.sdstate.edu/idep/
-<br>
-<br>
-What are the squirrels doing?
+---
 
 
 ![Alt text](https://github.com/bderenge/bderenge/blob/main/squirrel_cloud.png)
