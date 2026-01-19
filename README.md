@@ -26,7 +26,7 @@
 
 Analyzed NYC squirrel census data - because why not? 🐿️
 
-![Squirrel behavior word cloud](https://github.com/profile/bderenge/blob/main/squirrel_cloud.png)
+![Squirrel behavior word cloud](https://github.com/profile/bderenge/bderenge/main/squirrel_cloud.png)
 
 *Most common squirrel behaviors observed in Central Park*
 
